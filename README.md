@@ -1,6 +1,6 @@
 # Netology
 
-Учебные проекты программы ["Deep learning"](https://netology.ru/programs/deep-learning) от netology.ru.
+Учебные проекты программы ["Deep learning"](https://netology.ru/programs/deep-learning) от netology.ru
 
 
 
