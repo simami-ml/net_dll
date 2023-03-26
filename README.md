@@ -4,7 +4,7 @@
 
 
 
-| Тема | Инструменты | Задача |
+| Тема | Ноутбук | Задача |
 | :--------------- | :---------- | :---------- |
 | 12. **GAN's**|**[HW_GAN.ipynb](https://github.com/simami-m/net_dll/blob/main/HW_GAN.ipynb)**|Генератор лиц аниме|
 | 11. **Работа с текстом**|**[HW12.ipynb](https://github.com/simami-m/net_dll/blob/main/HW12.ipynb)**|Word2vec обучен на датасете с фразами Симпсонов, визуализация embeddings (самые частотные слова), близкие слова|
